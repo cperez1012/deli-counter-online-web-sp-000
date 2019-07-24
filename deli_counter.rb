@@ -13,7 +13,7 @@ end
 
 def take_a_number(katz_deli, name)
   Counter = 1
-  
+
 end
 
 def now_serving
